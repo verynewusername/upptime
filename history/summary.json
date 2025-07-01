@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 171,
-    "timeWeek": 170,
+    "timeDay": 213,
+    "timeWeek": 178,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jewelss.co.ico",
     "slug": "jewelss-co",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "98.47%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 319,
-    "timeDay": 215,
-    "timeWeek": 260,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 323,
+    "timeDay": 313,
+    "timeWeek": 265,
+    "timeMonth": 323,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2025-06-30": 22
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 127,
-    "timeWeek": 144,
-    "timeMonth": 168,
-    "timeYear": 168,
+    "time": 162,
+    "timeDay": 68,
+    "timeWeek": 140,
+    "timeMonth": 162,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   }
 ]
