@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 213,
-    "timeWeek": 178,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 217,
+    "timeDay": 199,
+    "timeWeek": 187,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "jewelss-co",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.47%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 323,
-    "timeDay": 313,
-    "timeWeek": 265,
-    "timeMonth": 323,
-    "timeYear": 323,
+    "time": 320,
+    "timeDay": 248,
+    "timeWeek": 264,
+    "timeMonth": 320,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2025-06-30": 22
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 68,
-    "timeWeek": 140,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "time": 160,
+    "timeDay": 129,
+    "timeWeek": 114,
+    "timeMonth": 160,
+    "timeYear": 160,
     "dailyMinutesDown": {}
   }
 ]
