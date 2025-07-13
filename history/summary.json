@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 202,
-    "timeWeek": 211,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 217,
+    "timeDay": 167,
+    "timeWeek": 215,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://jewelss.co",
     "icon": "https://icons.duckduckgo.com/ip3/jewelss.co.ico",
     "slug": "jewelss-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 344,
-    "timeDay": 339,
-    "timeWeek": 428,
-    "timeMonth": 344,
-    "timeYear": 344,
+    "time": 350,
+    "timeDay": 565,
+    "timeWeek": 472,
+    "timeMonth": 350,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2025-06-30": 22
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 154,
-    "timeWeek": 190,
-    "timeMonth": 165,
-    "timeYear": 165,
+    "time": 168,
+    "timeDay": 255,
+    "timeWeek": 206,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   }
 ]
