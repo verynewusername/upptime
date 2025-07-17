@@ -22,7 +22,7 @@
     "url": "https://jewelss.co",
     "icon": "https://icons.duckduckgo.com/ip3/jewelss.co.ico",
     "slug": "jewelss-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.94%",
@@ -34,6 +34,7 @@
     "timeMonth": 343,
     "timeYear": 343,
     "dailyMinutesDown": {
+      "2025-07-17": 0,
       "2025-07-14": 106,
       "2025-07-13": 1,
       "2025-06-30": 22
