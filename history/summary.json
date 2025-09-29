@@ -4,18 +4,20 @@
     "url": "https://efesirin.com",
     "icon": "https://icons.duckduckgo.com/ip3/efesirin.com.ico",
     "slug": "efesirin-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 205,
-    "timeWeek": 202,
-    "timeMonth": 220,
-    "timeYear": 222,
-    "dailyMinutesDown": {}
+    "time": 227,
+    "timeDay": 498,
+    "timeWeek": 275,
+    "timeMonth": 238,
+    "timeYear": 227,
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   },
   {
     "name": "jewelss.co",
