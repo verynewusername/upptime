@@ -4,19 +4,19 @@
     "url": "https://efesirin.com",
     "icon": "https://icons.duckduckgo.com/ip3/efesirin.com.ico",
     "slug": "efesirin-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 827,
-    "timeWeek": 402,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 239,
+    "timeDay": 643,
+    "timeWeek": 391,
     "timeMonth": 277,
-    "timeYear": 238,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-10-02": 0
+      "2025-10-02": 15
     }
   },
   {
