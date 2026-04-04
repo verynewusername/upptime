@@ -61,9 +61,9 @@
     "slug": "api-jewelss-co",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 315,
     "timeDay": 7327,
@@ -71,7 +71,7 @@
     "timeMonth": 945,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2026-04-04": 0,
+      "2026-04-04": 8,
       "2026-02-05": 42
     }
   }
