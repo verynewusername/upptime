@@ -1,7 +1,7 @@
 url: https://api.jewelss.co/version
-status: down
-code: 502
-responseTime: 362
-lastUpdated: 2026-04-14T16:25:50.906Z
+status: up
+code: 200
+responseTime: 944
+lastUpdated: 2026-04-14T16:49:50.419Z
 startTime: 2025-06-17T13:37:38.972Z
 generator: Upptime <https://github.com/upptime/upptime>
