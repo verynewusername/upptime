@@ -46,16 +46,16 @@
     "url": "https://api.jewelss.co/version",
     "icon": "https://icons.duckduckgo.com/ip3/api.jewelss.co.ico",
     "slug": "api-jewelss-co",
-    "status": "down",
-    "uptime": "99.08%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "98.85%",
-    "time": 360,
-    "timeDay": 48,
-    "timeWeek": 416,
-    "timeMonth": 409,
+    "time": 361,
+    "timeDay": 315,
+    "timeWeek": 436,
+    "timeMonth": 414,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2026-02-05": 42,
@@ -69,7 +69,7 @@
       "2026-05-22": 1440,
       "2026-05-21": 1362,
       "2026-08-18": 32,
-      "2026-09-14": 0
+      "2026-09-14": 32
     }
   }
 ]
