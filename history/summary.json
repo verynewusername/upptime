@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 200,
-    "timeDay": 107,
-    "timeWeek": 191,
-    "timeMonth": 185,
+    "timeDay": 211,
+    "timeWeek": 192,
+    "timeMonth": 186,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-10-02": 15,
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 110,
-    "timeWeek": 162,
-    "timeMonth": 187,
+    "time": 294,
+    "timeDay": 156,
+    "timeWeek": 163,
+    "timeMonth": 188,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2026-02-24": 20
@@ -48,15 +48,15 @@
     "slug": "api-jewelss-co",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "98.84%",
     "time": 363,
-    "timeDay": 410,
-    "timeWeek": 431,
+    "timeDay": 409,
+    "timeWeek": 430,
     "timeMonth": 442,
-    "timeYear": 418,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2026-02-05": 42,
       "2026-04-04": 49,
@@ -70,8 +70,7 @@
       "2026-05-21": 1362,
       "2026-08-18": 32,
       "2026-09-14": 32,
-      "2026-09-22": 27,
-      "2026-09-24": 8
+      "2026-09-22": 27
     }
   }
 ]
