@@ -11,12 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 201,
-    "timeDay": 212,
-    "timeWeek": 300,
-    "timeMonth": 207,
+    "timeDay": 94,
+    "timeWeek": 285,
+    "timeMonth": 204,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-10-04": 17,
       "2025-11-18": 149
     }
   },
@@ -32,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 276,
-    "timeWeek": 274,
-    "timeMonth": 201,
-    "timeYear": 274,
+    "timeDay": 127,
+    "timeWeek": 262,
+    "timeMonth": 199,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2026-02-24": 20
     }
@@ -46,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.jewelss.co.ico",
     "slug": "api-jewelss-co",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.84%",
-    "time": 366,
-    "timeDay": 449,
-    "timeWeek": 481,
-    "timeMonth": 447,
-    "timeYear": 426,
+    "time": 367,
+    "timeDay": 361,
+    "timeWeek": 459,
+    "timeMonth": 445,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2026-02-05": 42,
       "2026-04-04": 49,
